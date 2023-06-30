@@ -30,6 +30,8 @@
 
 #### Halfstack on the Shore(ditch) - November 2022
 
-Are memes a design system?
+**Are memes a design system?**
+> Design systems are everywhere nowadays. It seems like everyone has one, from tech giants to scrappy startups, all with evocative names such as "Carbon", "Lightning" and "US Government Web Design System". But what even is a design system? If you've ever asked that question, the answer you heard was probably packed full of industry buzzwords such as "a shared visual language" that "tells your brand's story", and "a single source of truth" that "reduces redundancy", whatever that means.
+In this talk, Steph cuts through the BS by critically examining the definition of design systems via the medium of memes, with the hope that by exploring the merits and flaws of defining memes as a type of design system, we might come that bit closer to understanding the true essence of what a design system actually is.
 
 [![Watch the video](https://img.youtube.com/vi/rCdfaeYiqSY/0.jpg)](https://youtu.be/rCdfaeYiqSY)
