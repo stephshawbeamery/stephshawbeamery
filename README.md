@@ -1,16 +1,35 @@
-### Hi there 👋
+# Stephanie Shaw
 
-<!--
-**stephshawbeamery/stephshawbeamery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 **Senior Frontend Engineer** at Beamery since February 2022
 
-Here are some ideas to get you started:
+🎤 Conference speaker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👵 Over 12 years of full stack SWE experience across the financial and public sectors
+
+🤓 Studied BSc Physics at Imperial College London
+
+🙃 Gemini | INTJ | 5w4 | Chaotic Good
+
+🚄 Sustainable travel enthusiast
+
+🌚 Purveyor of dank memes
+
+🇬🇧 🇮🇪 🇯🇲 🇮🇳 🏳️‍🌈 ♾️ Flag collector 🙈
+
+## Watch me in action
+
+### React Advance London 2023 - 20th October 2023
+<img src="https://github.com/stephshawbeamery/stephshawbeamery/assets/100211200/4194239e-add8-496d-8b32-ff0ac47fbf06" height="200px" />
+
+**Thinking Differently About a11y – Accessible Website Design for the Neurospicy**
+> Did you know that approximately 1 in 7 people are neurodivergent? Within that group there is an entire spectrum of people whose brains process information differently. However, as frontend engineers we often forget to take these idiosyncrasies into account, or choose to simply apply industry standards such as WCAG 2.1 AA without digging deeper. In this talk, Steph shares some of the ways you can create better web experiences for the neurodivergent.
+
+[Tickets available here](https://reactadvanced.com/#tickets)
+
+### Previous Talks
+
+#### Halfstack on the Shore(ditch) - November 2022
+
+Are memes a design system?
+
+[![Watch the video](https://img.youtube.com/vi/rCdfaeYiqSY/0.jpg)](https://youtu.be/rCdfaeYiqSY)
