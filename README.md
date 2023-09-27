@@ -16,6 +16,9 @@
 
 🇬🇧 🇮🇪 🇯🇲 🇮🇳 🏳️‍🌈 ♾️ Flag collector 🙈
 
+## 🚨 Did you see me recently at ReactJS Girls (Sep 2023)?
+[View details about my talk here](#reactjs-girls---september-2023) including the Github repo, slide deck and video recording (coming soon)
+
 ## Watch me in action
 
 ### React Advance London 2023 - 20th October 2023
@@ -27,6 +30,17 @@
 [Tickets available here](https://reactadvanced.com/#tickets)
 
 ### Previous Talks
+
+#### ReactJS Girls - September 2023
+<img alt="ReactJS Girls Event Banner" src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F571105359%2F998602001653%2F1%2Foriginal.20230808-162448?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=05004b35a19fbc5860f3074499d58ec2" height="200">
+
+**Server Components - React's Server-Side Revolution**
+
+> React Server Components (RSCs) will revolutionize the way we build interactive web applications. In this talk, we'll explore how server components will help us bridge the gap between client and server-side rendering, creating a more efficient and dynamic user experience
+
+- Video - Watch this space
+- [Github Repo](https://github.com/stephshawbeamery/server-components-demo)
+- [Slide deck](https://docs.google.com/presentation/d/1EyRGl1f7UzLsvY826V_TNxS4UQ7O5RO248aUUc11WuI/edit?usp=sharing) 
 
 #### Halfstack on the Shore(ditch) - November 2022
 
