@@ -1,6 +1,6 @@
 # Stephanie Shaw
 
-👩‍💻 **Senior Frontend Engineer** at Beamery since February 2022
+👩‍💻 **Engineering Manager** at Beamery
 
 🎤 Conference speaker
 
